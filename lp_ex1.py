@@ -1,5 +1,6 @@
 import pandas as pd
 import ast
+import random
 
 # 构造示例 DataFrame
 df = pd.DataFrame({
